@@ -1,1 +1,1 @@
-# Tele-Costumer-Churn-Using-SMOTE-Technique-and-Random-Forest-Classifier
+# Tele-Customer-Churn-Using-SMOTE-Technique-and-Random-Forest-Classifier
